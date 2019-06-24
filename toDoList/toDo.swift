@@ -6,4 +6,10 @@
 //  Copyright © 2019 Apple. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class toDo {
+    var name = ""
+    var important = false
+    
+}
